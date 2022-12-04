@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "01_calories",
+    "02_rock_paper_scissors",
+    "03_rucksack_reorg",
+    "04_camp_cleanup",
+]
