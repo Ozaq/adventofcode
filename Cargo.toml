@@ -6,4 +6,5 @@ members = [
     "03_rucksack_reorg",
     "04_camp_cleanup",
     "05_supply_stacks",
+    "06_tuning_trouble"
 ]
