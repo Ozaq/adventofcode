@@ -10,4 +10,5 @@ members = [
     "07_no_space_left_on_device",
     "08_tree_top_house",
     "09_rope_bridge",
+    "10_cathode_ray_tube",
 ]
