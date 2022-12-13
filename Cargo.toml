@@ -11,4 +11,5 @@ members = [
     "08_tree_top_house",
     "09_rope_bridge",
     "10_cathode_ray_tube",
+    "11_monkey_in_the_middle",
 ]
